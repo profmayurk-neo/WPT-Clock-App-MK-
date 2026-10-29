@@ -1,0 +1,20 @@
+export const TIME_ZONES = [
+{id:"Asia/Kolkata",city:"Mumbai",country:"India",region:"Asia"},
+{id:"Asia/Dubai",city:"Dubai",country:"United Arab Emirates",region:"Asia"},
+{id:"Asia/Tokyo",city:"Tokyo",country:"Japan",region:"Asia"},
+{id:"Asia/Singapore",city:"Singapore",country:"Singapore",region:"Asia"},
+{id:"Asia/Kathmandu",city:"Kathmandu",country:"Nepal",region:"Asia"},
+{id:"Asia/Bangkok",city:"Bangkok",country:"Thailand",region:"Asia"},
+{id:"Europe/London",city:"London",country:"United Kingdom",region:"Europe"},
+{id:"Europe/Paris",city:"Paris",country:"France",region:"Europe"},
+{id:"Europe/Berlin",city:"Berlin",country:"Germany",region:"Europe"},
+{id:"Europe/Istanbul",city:"Istanbul",country:"Türkiye",region:"Europe"},
+{id:"America/New_York",city:"New York",country:"United States",region:"Americas"},
+{id:"America/Los_Angeles",city:"Los Angeles",country:"United States",region:"Americas"},
+{id:"America/Toronto",city:"Toronto",country:"Canada",region:"Americas"},
+{id:"America/Sao_Paulo",city:"São Paulo",country:"Brazil",region:"Americas"},
+{id:"Australia/Sydney",city:"Sydney",country:"Australia",region:"Oceania"},
+{id:"Pacific/Auckland",city:"Auckland",country:"New Zealand",region:"Oceania"},
+{id:"Africa/Cairo",city:"Cairo",country:"Egypt",region:"Africa"},
+{id:"Africa/Johannesburg",city:"Johannesburg",country:"South Africa",region:"Africa"}
+];
